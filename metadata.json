@@ -1,0 +1,5 @@
+{
+  "name": "NutriPlan AI",
+  "description": "Un planificador de dieta y nutrición personalizado impulsado por IA que genera planes de comidas semanales basados en tus objetivos físicos y horarios de entrenamiento.",
+  "requestFramePermissions": []
+}
